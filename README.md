@@ -35,16 +35,10 @@ He trabajado en proyectos diversos, desde la creación de sitios web desde cero 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Mariano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&count_private=true)
-
----
-
 ## 🛠️ Proyectos Destacados
 
-1. **[Proyecto 1](https://github.com/tu-usuario-github/proyecto-1)**: Descripción breve del proyecto.
-2. **[Proyecto 2](https://github.com/tu-usuario-github/proyecto-2)**: Descripción breve del proyecto.
+
+**[Power Training](https://github.com/leoramosa/PowerTraining-front)**: Proyecto final, pagina web orientada al entrenador personal para gestionar sus alumnos.
 
 ---
 
